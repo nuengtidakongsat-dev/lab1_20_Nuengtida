@@ -8,4 +8,6 @@ void main(){
 
   print("Hello,$fname $age $money $x");
 
+
+  print("i love my job❤️❤️❤️")
 }
