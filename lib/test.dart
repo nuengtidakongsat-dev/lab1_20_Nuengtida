@@ -9,5 +9,5 @@ void main(){
   print("Hello,$fname $age $money $x");
 
 
-  print("i love my job❤️❤️❤️")
+  print("i love my job❤️❤️❤️");
 }
